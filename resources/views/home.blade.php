@@ -14,11 +14,6 @@
 </head>
 <body>
     <div class="city-names"></div>
-
-    <div class="custom-alert" id="custom-alert">
-        <div class="alert-message" id="alert-message"></div>
-        <button class="close-btn" id="close-btn">Close</button>
-    </div>
     <div class="svg-turkey-map">
       <svg version="1.1" id="svg-turkey-map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1052.3622 744.09448" xml:space="preserve">
         <g id="region-1" data-region="Marmara" >
