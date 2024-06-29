@@ -1,0 +1,62 @@
+.svg-turkey-map {
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.svg-turkey-map svg {
+    width: 100%;
+    height: auto;
+}
+
+.city-names {
+    position: absolute;
+    z-index: 2;
+}
+
+.city-names div {
+    font-family: 'Open Sans';
+    display: inline-block;
+    background: #E9E0D4;
+    color: #000;
+    padding: 8px 16px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+#svg-turkey-map path {
+    cursor: pointer;
+}
+
+#svg-turkey-map path:hover {
+    fill: #D2CAC5;
+}
+
+#region-1 g path {
+    fill: #D03F2C
+}
+
+#region-2 g path {
+    fill: #F99F1E
+}
+
+#region-3 g path {
+    fill: #800080
+}
+
+#region-4 g path {
+    fill: #933D65
+}
+
+#region-5 g path {
+    fill: #1D2C73
+}
+
+#region-6 g path {
+    fill: #7C8C49
+}
+
+#region-7 g path {
+    fill: #6342C7
+}
