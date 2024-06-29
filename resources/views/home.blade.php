@@ -14,7 +14,8 @@
 </head>
 <body>
     <div class="city-names"></div>
-    <div class="svg-turkey-map">
+    <h1 class="text-center mb-3 mt-3"> TÜRKİYE HARİTASI</h1>
+    <div class="svg-turkey-map mt-5">
       <svg version="1.1" id="svg-turkey-map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1052.3622 744.09448" xml:space="preserve">
         <g id="region-1" data-region="Marmara" >
           <g id="balikesir" data-plateCode="10" data-areaCode="266" data-cityname="Balıkesir">

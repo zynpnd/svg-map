@@ -6,6 +6,8 @@
 Bu proje, Laravel kullanarak Türkiye haritasının SVG formatında ekranda gösterilmesini sağlar.Haritada bölgeler farklı renkler ile ifade edilmiştir. Kullanıcılar harita üzerinde şehirlerin üzerine geldiklerinde şehir isimlerini görebilir ve tıkladıklarında bir uyarı (alert) mesajı alırlar.
 
 
+![alt text](http://url/to/img.png)
+
 Projeyi indirmek için aşağıdaki komutları kullanın.
 
 ```bash
